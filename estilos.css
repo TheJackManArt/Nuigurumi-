@@ -651,12 +651,10 @@ main.sobre-mi p {
 }
 
 .detalle-contenido img {
-  width: 40%;
-  max-width: 280px;
-  height: auto;
-  aspect-ratio: 1 / 1;
+  width: 220px;
+  height: 220px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 8px;
   flex-shrink: 0;
 }
 
